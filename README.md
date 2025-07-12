@@ -3,11 +3,10 @@
 
 <br/>
 
-[![Korean Résumé](https://img.shields.io/badge/Korean%20Résumé-FF6900?style=flat-round&logo=Read-the-Docs&logoColor=white&link=https://bit.ly/resume_minjoon)](https://bit.ly/resume_minjoon)
+<!-- [![Korean Résumé](https://img.shields.io/badge/Korean%20Résumé-FF6900?style=flat-round&logo=Read-the-Docs&logoColor=white&link=https://bit.ly/resume_minjoon)](https://bit.ly/resume_minjoon) -->
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=white&link=mailto:4kmj54321@gmail.com)](mailto:4kmj54321@gmail.com)
 <br/>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminjoon-98&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminjoon-98&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
 </div>
 
@@ -16,14 +15,18 @@
 I'm currently studying backend development.<br>
 I like to communicate with developers and try to grow together 🌱
 
-### 🎓 Education
-- 5th [Krafton Jungle](https://jungle.krafton.com/) student &nbsp;<sub>(Mar 2024 – Aug 2024)</sub>
-- Bachelor's degree in Physics from Chung-Ang University &nbsp;<sub>(Mar 2017 – Aug 2022)</sub>
+### 🎓 Education & Certification
+- 🎓 13th [Samsung SW·AI Academy (SSAFY)](https://www.ssafy.com/) trainee &nbsp;<sub>(Jan 2025 – Present)</sub>  
+- 5th [Krafton Jungle](https://jungle.krafton.com/) student &nbsp;<sub>(Mar 2024 – Aug 2024)</sub>  
+- 🎓 Bachelor's degree in Physics from Chung-Ang University &nbsp;<sub>(Mar 2017 – Aug 2022)</sub>  
+- 🏅 Information Processing Engineer (정보처리기사) &nbsp;<sub>2025.06.13 취득</sub>  
+- 🏅 SQL Developer Certificate (SQLD) &nbsp;<sub>2025.06.27 취득</sub>
 
 ### 👀 Interests
 - Backend Development &nbsp;<sub>(Java, Spring, JPA)</sub>
 - Clean Code
 - Infrastructure &nbsp;<sub>(AWS, CI/CD, etc)</sub>
+- Security Best Practices
 
 ### 🛠️ Skills
 
@@ -40,10 +43,8 @@ I like to communicate with developers and try to grow together 🌱
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=FFFFFF)
 <br/>
 
- ### 📊 Stats
- 
-<!-- ![minjoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjoon-98&theme=dark&rank_icon=github&hide=issues&count_private=true&show_icons=true) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjoon-98\&layout=compact&hide=C%2B%2B,Perl,Makefile,Raku,Shell) -->
+### 📊 Stats
+
 ![minjoon's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=minjoon-98&show_icons=true&theme=dark&rank_icon=github&hide=issues&count_private=true)
 <br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=4kmj54321)](https://solved.ac/4kmj54321/)
